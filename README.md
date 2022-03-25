@@ -8,7 +8,7 @@ Things to fix:
 - !hide (user)
 - !copy
 
-# Xensis
+# Sharah
 
 An expansive Fortnite lobby bot with a handful of features.
 
